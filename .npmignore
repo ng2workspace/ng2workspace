@@ -1,0 +1,9 @@
+/.idea
+/src
+
+/.eslintrc
+/.release.json
+/gulpfile.js
+/npm-debug.log
+
+*.map

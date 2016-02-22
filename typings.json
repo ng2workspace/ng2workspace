@@ -1,0 +1,16 @@
+{
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#aae1368c8ee377f6e9c59c2d6faf1acb3ece7e05",
+    "chalk": "github:DefinitelyTyped/DefinitelyTyped/chalk/chalk.d.ts#5d4a87811a8282f01bc1cdf2156020d78515fa2e",
+    "gulp": "github:DefinitelyTyped/DefinitelyTyped/gulp/gulp.d.ts#052725d74978d6b8d7c4ff537b5a3b21ee755a49",
+    "gulp-util": "github:DefinitelyTyped/DefinitelyTyped/gulp-util/gulp-util.d.ts#5d4a87811a8282f01bc1cdf2156020d78515fa2e",
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash.d.ts#587f470b5e235dfed0f9d1681f6da536cfb60eec",
+    "minimist": "github:DefinitelyTyped/DefinitelyTyped/minimist/minimist.d.ts#5974b1be295ed7f61ff611459bc06a56cb35fd0c",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#2b2353068b57c5f0e10439f5a7cbca5ae41aa3d5",
+    "orchestrator": "github:DefinitelyTyped/DefinitelyTyped/orchestrator/orchestrator.d.ts#422b006d39dd37fc667ce5464967ee3ff6135092",
+    "through2": "github:DefinitelyTyped/DefinitelyTyped/through2/through2.d.ts#cba118b92f538f6fcc3f8226e7bcdb5eb73f359d",
+    "vinyl": "github:DefinitelyTyped/DefinitelyTyped/vinyl/vinyl.d.ts#a5b7ddb77a011d54a0f56dd837d38c5ba46da888"
+  }
+}
