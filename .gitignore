@@ -1,4 +1,4 @@
-#/.idea todo(mm): uncomment this so it's ignored
+/.idea
 /dist
 /node_modules
 /npm-debug.log
