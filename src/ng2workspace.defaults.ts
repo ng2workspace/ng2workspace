@@ -9,7 +9,8 @@ let defaultConfig:INg2WorkspaceConfig = {
   html_baseUrl: '/',
   port_dev: 9999,
   port_prod: 8080,
-  root: process.cwd()
+  root: process.cwd(),
+  spec_entry: 'spec-bundle.js'
 };
 
 export interface INg2WorkspaceConfig {
@@ -24,6 +25,7 @@ export interface INg2WorkspaceConfig {
   port_dev?:number;
   port_prod?:number;
   root?:string;
+  spec_entry?:string;
 }
 
 export default defaultConfig;
