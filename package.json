@@ -1,6 +1,6 @@
 {
   "name": "ng2workspace",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The core of ng2workspace - a flexible and modular Angular 2 workspace that can be used as a starter kit with potentially unlimited build configurations",
   "main": "dist/ng2workspace.js",
   "homepage": "https://github.com/ng2workspace/ng2workspace#readme",
