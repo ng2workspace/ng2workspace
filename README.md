@@ -29,17 +29,9 @@ has been copied directly from [`angular2-webpack-starter`](https://github.com/An
 
 ## Installation
 
-First install `ng2workspace` via `npm` and save it to your dev dependencies:
-
 ```
 npm install ng2workspace --save-dev
 ```
-
-Then, copy the list of `peerDependencies` from the project's [`package.json`](package.json)
-into your own project's `dependencies` list. For early Beta versions of Angular,
-`ng2workspace` lists exact versions as its peer dependencies, to help you avoid
-incompatible packages. Later, once Angular 2 and its dependencies have stabilised
-a little more, `ng2workspace` will loosen the version numbers in its dependencies.
 
 ## Sample App
 
